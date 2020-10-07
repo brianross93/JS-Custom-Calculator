@@ -1,0 +1,11 @@
+/* Styles for entire page */
+body { 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+#input-field{
+    display: flex;
+    flex-direction: column;
+    flex: 50%;
+}
